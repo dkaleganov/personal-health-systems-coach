@@ -57,6 +57,7 @@ If you're on a platform that supports Anthropic Skills (Claude Code, Claude Proj
 personal-health-systems-coach/
 ├── README.md                  ← you are here
 ├── LICENSE                    ← MIT
+├── DISCLAIMER.md              ← not medical advice; examples, not endorsements
 ├── SKILL.md                   ← Anthropic Skill definition
 └── assets/
     └── template.md            ← the actual system prompt template
@@ -81,7 +82,7 @@ The architecture came from iterating on AI health-coach prompts across common da
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Use it, fork it, adapt it, share improvements.
+MIT — see [LICENSE](LICENSE). Use it, fork it, adapt it, share improvements. Read the [DISCLAIMER](DISCLAIMER.md) first: this is not medical advice.
 
 ## Contributing
 
